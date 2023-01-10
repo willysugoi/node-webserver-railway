@@ -1,0 +1,6 @@
+- Primero generamos el package.json con el comando npm init -y
+- Luego utilizaremos por primera vez nodemon(nos permite ver los cambios en consola
+al instante en que guardamos), para ello ejecutamos el comando nodemon app
+- Luego instalamos express(para hacer webserver) con el comando npm i express
+- Luego instalamos handlebars, que nos permite modificar y mejorar paginas html(renderizar),
+para ello ejecutamos el comando npm install hbs
